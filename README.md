@@ -12,5 +12,5 @@ That data represents the location of a device that is tracked (its a car trackin
 THE APP DOESNT TRACK THE USERS LOCATION. It doesn't even have a location permision in the android manifest.
 
 Yours sincerely,
-Kristian Kliškovič.
+Kristian Klišković.
 kristiankliskovic@gmail.com
