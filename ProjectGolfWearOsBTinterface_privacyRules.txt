@@ -1,0 +1,11 @@
+# PGolF1_privacyRules
+ 
+Welcome to the Project Golf - Bluetooth interface app.
+
+This is an Android app developed by Kristian Klišković
+
+I have not programmed this app to collect any personally identifiable information.
+
+Yours sincerely,
+Kristian Klišković.
+kristiankliskovic@gmail.com
