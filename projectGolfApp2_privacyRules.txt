@@ -1,0 +1,50 @@
+Welcome to the Project Golf App 2.
+
+This is an Android app developed by Kristian Klišković.
+
+This app allows user to track location of cars that have my tracking device installed (currently two cars).
+
+Data about the car's location is saved on a ThingSpeak server. The nessesary information to collect that data are:
+  - channelId
+  - read API key
+
+  That information is unique per car.
+
+Application user data is saved in the firebase realtime database, the database is on the same google account as this Console Play account.
+
+User data that I save:
+  - username
+  - password
+  - list that represents cars:
+    - channelId
+    - read API key
+    - bluetooth MAC address
+
+Important user actions regarding data privacy are:
+  - register
+  - login
+  - change password
+  - logout
+  - add new car
+  - delete car
+
+IMPORTANT NOTE:
+Crucital user data in this app is the data that identifies the car (allows anybody to gain info on the car's location), which are the channelId and the read API key.
+I can of course read all that data in the firebases database, but that data is given to them in the first place by me, because I am the admin of the entire system, and nobody is autourized to use this car tracking system without my permission.
+
+All the people that have this car tracking system (currently only me and my dad) have consented that I have access to view the car's location.
+
+This app will be used by several other people for which the user of the car tracking system (I or my dad) give permission by giving them the channelId and the read API key for the car.
+
+This app also supports bluetooth comunication with the tracking device by simple commands.
+
+This app has permission for the user's location and is ONLY used to display the phone's location on the map next to the car's location.
+
+This app doesn't have add-s.
+
+If you have any questions feel free to contact me via email on kristiankliskovic@gmail.com
+
+Best regards,
+
+Kristian Klišković
+
